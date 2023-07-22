@@ -1,4 +1,4 @@
-# NVH's Common Avatar Settings Configuration & Storage System
+# NVH's Mesh Bone Rebind
 
 ## Script Overview
 
