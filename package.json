@@ -1,0 +1,17 @@
+{
+  "name": "uk.novavoidhowl.dev.meshbonerebind",
+  "version": "0.0.2",
+  "displayName": "Mesh Bone Rebind",
+  "description": "Script to re-bind meshes from one armature to another",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/NovaVoidHowl/Mesh-Bone-Rebind/blob/main/README.md",
+  "changelogUrl": "https://github.com/NovaVoidHowl/Mesh-Bone-Rebind/releases",
+  "licensesUrl": "https://github.com/NovaVoidHowl/Mesh-Bone-Rebind/blob/main/LICENSE.md",
+  "keywords": [],
+  "author": {
+    "name": "NovaVoidHowl",
+    "email": "me@novavoidhowl.com",
+    "url": "https://novavoidhowl.uk/"
+  }
+}
