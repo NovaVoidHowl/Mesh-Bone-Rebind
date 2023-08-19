@@ -11,6 +11,10 @@
   "keywords": [],
   "licensesUrl": "https://github.com/NovaVoidHowl/Mesh-Bone-Rebind/blob/main/LICENSE.md",
   "name": "uk.novavoidhowl.dev.meshbonerebind",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NovaVoidHowl/Mesh-Bone-Rebind.git"
+  },
   "unity": "2019.1",
   "unityRelease": "0b5",
   "version": "0.0.4"
